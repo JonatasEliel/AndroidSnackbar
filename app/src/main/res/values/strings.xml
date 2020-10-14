@@ -1,0 +1,13 @@
+<resources>
+    // APP NAME
+    <string name="app_name">Aula 20 - Snackbar</string>
+
+    // BUTTONS
+    <string name="button_login">LOGIN</string>
+    <string name="button_cadastre_se">Não tem conta? Cadastre-se</string>
+
+    // HINTS
+    <string name="label_user_name">User Name</string>
+    <string name="label_password">Password</string>
+
+</resources>
